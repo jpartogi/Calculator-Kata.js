@@ -6,6 +6,8 @@ We also run these courses:
 
 - [Professional Scrum Master Certification Course](http://www.agilitypath.com.au/programs/professional-scrum-master)
 - [Professional Scrum Product Owner Certification Course](http://www.agilitypath.com.au/programs/professional-scrum-product-owner)
+- [Professional Scrum Kanban Certification Course](http://www.agilitypath.com.au/programs/professional-scrum-kanban)
+- [Advanced Professional Scrum Master Certification Course](http://www.agilitypath.com.au/programs/advanced-professional-scrum-master)
 
 At the moment we run Professional Scrum Courses in [Australia](http://www.agilitypath.com.au/courses/australia) ([Sydney](http://www.agilitypath.com.au/courses/australia/sydney), [Perth](http://www.agilitypath.com.au/courses/australia/perth), [Melbourne](http://www.agilitypath.com.au/courses/australia/melbourne) & [Brisbane](http://www.agilitypath.com.au/courses/australia/brisbane)), [Singapore](http://www.agilitypath.com.au/courses/singapore/singapore), [Vietnam](http://www.agilitypath.com.au/courses/vietnam), [Hong Kong](http://www.agilitypath.com.au/courses/china/hong-kong), [Dubai](http://www.agilitypath.com.au/courses/united-arab-emirates/dubai), [Oman](http://www.agilitypath.com.au/courses/oman), [Malaysia](http://www.agilitypath.com.au/courses/malaysia) ([Kuala Lumpur](http://www.agilitypath.com.au/courses/malaysia/kuala-lumpur) & [Penang](http://www.agilitypath.com.au/courses/malaysia/penang)), [Thailand](http://www.agilitypath.com.au/courses/thailand) and [Philippines](http://www.agilitypath.com.au/courses/philippines).
 
